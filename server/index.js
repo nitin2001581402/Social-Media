@@ -12,7 +12,7 @@ import authRoutes from "./routes/auth.js";
 import userRoutes from "./routes/users.js";
 import adminRoutes from "./routes/adminRoutes.js";
 import postRoutes from "./routes/posts.js";
-import categoryRoutes from "./routes/categtegoryRoutes.js";
+import categoryRoutes from "./routes/categoryRoutes.js";
 import messageRoutes from "./routes/messageRoutes.js";
 import { register } from "./controllers/auth.js";
 import { createPost } from "./controllers/posts.js";
