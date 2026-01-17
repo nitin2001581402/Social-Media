@@ -6,6 +6,7 @@ A full-stack social media application built with React and Node.js, enabling use
 
 Below are screenshots demonstrating the app’s key functionalities:
 
+**User Profile & Follow/Unfollow Functionality**
 
 <img width="1079" height="698" alt="image" src="https://github.com/user-attachments/assets/1f7913de-44f2-49fe-88c3-ffdec0a73f72" />
 
@@ -77,12 +78,12 @@ The feed supports infinite scrolling to dynamically load more posts as the user 
 ```bash
 # Clone the repository
 git clone https://github.com/nitin2001581402/Social-Media.git
-cd Social-Media
+cd user
+
 
 # Install dependencies for frontend
-cd client
 npm install
 
 # Install dependencies for backend
-cd ../server
+cd server
 npm install
