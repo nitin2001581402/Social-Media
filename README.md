@@ -6,27 +6,29 @@ A full-stack social media application built with React and Node.js, enabling use
 
 Below are screenshots demonstrating the app’s key functionalities:
 
-**User Profile & Follow/Unfollow Functionality**
+**Login Page**
 
 <img width="1079" height="698" alt="image" src="https://github.com/user-attachments/assets/1f7913de-44f2-49fe-88c3-ffdec0a73f72" />
 
+**Home Page (Feed with Posts)**
+
 <img width="1887" height="862" alt="image" src="https://github.com/user-attachments/assets/96126248-84d1-41ff-a985-fc407315331f" />
+
+**User Profile and Profile Update**
 
 <img width="1777" height="834" alt="image" src="https://github.com/user-attachments/assets/fbedcafb-16dc-41dc-8a79-163e5d6ca864" />
 
-
-**User Feed with Posts, Likes, and Comments**
-
-Add screenshots of your feed page, showing posts with images, likes, and comments here.
-
-**User Profile & Follow/Unfollow Functionality**
+**Follow and Unfollow Friends**
 
 <img width="1786" height="776" alt="image" src="https://github.com/user-attachments/assets/3e5a7330-981d-4118-8924-89b2647b2390" />
 
+**Post Sharing, Liking, and Commenting**
+
 <img width="1770" height="801" alt="image" src="https://github.com/user-attachments/assets/8543fa03-3051-4ecf-8463-937351734ce3" />
 
+**Logout Page**
 
-
+<img width="1767" height="832" alt="image" src="https://github.com/user-attachments/assets/bd814a94-6f45-4d31-8ef6-76f45bb5f3e9" />
 
 ## Project Overview
 
@@ -80,10 +82,11 @@ The feed supports infinite scrolling to dynamically load more posts as the user 
 git clone https://github.com/nitin2001581402/Social-Media.git
 cd user
 
-
 # Install dependencies for frontend
 npm install
 
 # Install dependencies for backend
 cd server
+
+# Install dependencies for backend
 npm install
